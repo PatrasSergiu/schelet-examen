@@ -1,0 +1,9 @@
+rootProject.name = 'schelet-examen'
+include 'ProjectDomain'
+include 'ProjectPersistence'
+include 'ProjectServices'
+include 'ProjectServer'
+include 'ProjectClient'
+include 'untitled'
+include 'RestServices'
+

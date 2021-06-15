@@ -1,0 +1,15 @@
+examen/persistence/repository/IPlayerRepo.java
+ examen.persistence.repository.IPlayerRepo
+examen/persistence/repository/IRepository.java
+ examen.persistence.repository.IRepository
+examen/persistence/repository/org/hibernate/dialect/SQLiteDialect.java
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect$1
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect$2
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect$3
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect$4
+ examen.persistence.repository.org.hibernate.dialect.SQLiteDialect$SQLiteUniqueDelegate
+examen/persistence/repository/org/hibernate/dialect/identity/SQLiteDialectIdentityColumnSupport.java
+ examen.persistence.repository.org.hibernate.dialect.identity.SQLiteDialectIdentityColumnSupport
+examen/persistence/repository/PlayerDBRepo.java
+ examen.persistence.repository.PlayerDBRepo
